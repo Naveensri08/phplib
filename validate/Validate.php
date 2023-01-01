@@ -42,9 +42,5 @@ class Validate
         }
         return true;
     }
-
-    function Stash() {
-        echo "statsh";
-    }
 }
 
