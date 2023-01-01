@@ -1,5 +1,5 @@
 <?php 
-// This class belong to validate. 
+// This class belong to validate namespace. 
 namespace validate;
 
 class Validate
